@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+li{
+    text-align: left;
+    float: left;
+    display: inline;
+    padding: 10px;
+    padding-right: 43px;
+    margin-right: 1px;
+    background-color: #06a6bb;
+    border: 1px solid #06a6bb;
+}
+
+h1{
+    text-align: center;
+    margin: 0%;
+    padding: 2%;
+    background-color: green;
+    color: white;
+}
+
+footer{
+    text-align: center;
+    margin-top: 35%;
+    padding: 21px;
+    background-color: black;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li:hover{
+    background-color: white;
+    border: 1px solid #06a6bb;
+    color: #06a6bb;
+}
+
+ol{
+    display: flex;
+    width: 80vw - 20px;
+    justify-content: center;
+    margin: 1px;
+}

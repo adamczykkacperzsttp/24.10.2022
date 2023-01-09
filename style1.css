@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+li{
+    font-family: Arial;
+    margin: 2px;
+    list-style-type: none;
+    padding: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: #06a6bb;
+    text-align: left;
+}
+
+h1{
+    margin: 0%;
+    padding: 2%;
+    background-color: green;
+    color: white;
+}
+
+footer{
+    margin-top: 21%;
+    padding: 21px;
+    background-color: black;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li:hover{
+    background-color: white;
+    border: 1px solid #06a6bb;
+    color: #06a6bb;
+}
